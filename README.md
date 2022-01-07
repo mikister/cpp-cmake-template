@@ -1,0 +1,1 @@
+# Cmake template that includes other libraries
